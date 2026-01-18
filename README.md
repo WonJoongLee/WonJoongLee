@@ -2,7 +2,7 @@
 - Mobile Engineer at Karrot(Daangn) for Android & Kotlin
 - 3 years of professional Android engineering experince
 - Email : isaac.lee.dev@gmail.com
-- [LinkedIn](https://www.linkedin.com/in/isaac-lee-70443a148/)
+- [LinkedIn]([https://www.linkedin.com/in/isaac-lee-70443a148/](https://www.linkedin.com/in/wonjoong-lee-70443a148/))
 
 ## Work Experience
 ### Karrot (Daangn)
